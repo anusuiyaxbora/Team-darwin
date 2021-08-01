@@ -3,3 +3,4 @@ HackBio is a virtually regimented research internship that is practice oriented 
 This is one of the group of inters containing 20 interns.
 Here is the list of contributor to this repository:
 1: kay kay shain marma from Bangladesh
+2: Anusuiya Bora from India
