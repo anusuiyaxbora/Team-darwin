@@ -1,5 +1,5 @@
 **HackBio Internship:**
-  HackBio is a virtually regimented research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and     computational biology skills.
+  HackBio Internship is a virtually regimented research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and     computational biology skills.
 
 **Team Darwin:**
   This is one of the group containing 20 interns.
