@@ -17,3 +17,4 @@
   10: Utkarsha Pande, from India
   11: Adedoyin Adesoye, from Nigeria
   12: Akinsehinwa Samuel from Nigeria
+  13. Oluwademilade Akinyemi from Nigeria
