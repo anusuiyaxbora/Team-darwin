@@ -2,7 +2,7 @@
   HackBio Internship is a virtually regimented research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and     computational biology skills.
 
 **Team Darwin:**
-  This is one of the group containing 20 interns.
+  This is one of the teams containing 20 interns.
 
 **Contributors:**
   1: Kay Kay Shain Marma from Bangladesh
