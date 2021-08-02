@@ -6,11 +6,11 @@
 
 **Contributors:**
   1: Kay Kay Shain Marma from Bangladesh
-  2: Anusuiya Bora from India
-  3: Michael Olufemi from Nigeria
-  4: Madhumitha from India
-  5: Lanxin Liu from China
-  6: Alabi Mosopefoluwa from Nigeria.
-  7: AJULO, Hassan Kehinde from Nigeria.
-  8: OWOH, Ifeanyichukwu Michael from Nigeria
-  9: Fasemire, Ayomide Samson from Nigeria
+  \n2: Anusuiya Bora from India
+  \n3: Michael Olufemi from Nigeria
+  \n4: Madhumitha from India
+  \n5: Lanxin Liu from China
+  \n6: Alabi Mosopefoluwa from Nigeria.
+  \n7: AJULO, Hassan Kehinde from Nigeria.
+  \n8: OWOH, Ifeanyichukwu Michael from Nigeria
+  \m9: Fasemire, Ayomide Samson from Nigeria
