@@ -4,7 +4,7 @@
 **Team Darwin:**
   This is one of the teams containing 20 interns.
 
-**Contributors:**
+**Contributors:**\
   1: Kay Kay Shain Marma from Bangladesh\
   2: Anusuiya Bora from India\
   3: Michael Olufemi from Nigeria\
@@ -18,4 +18,5 @@
   11: Adedoyin Adesoye, from Nigeria\
   12: Akinsehinwa Samuel from Nigeria\
   13. Oluwademilade Akinyemi from Nigeria\
-  14. Mariángeles Sakas from Venezuela\
+  14. Mariángeles Salas from Venezuela\
+  15. 
