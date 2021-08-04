@@ -1,6 +1,4 @@
 <h1 align="center"> Welcome to Team Darwin, HackBio 2021 </h1>
-![image](https://user-images.githubusercontent.com/88287648/128187158-497117c1-7a00-49db-a183-cc5a1861b40d.png)
-
 
 **HackBio Internship:**
   HackBio Internship is a virtually regimented research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and     computational biology skills.
