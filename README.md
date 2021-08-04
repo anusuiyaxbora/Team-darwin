@@ -54,12 +54,30 @@ Reference : <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>T
 - [Ruby](https://www.ruby-lang.org/en/)
 
 ## Running the tests
-
+ 
+ 
+ 
+ 
+ 
 ## Installation
+
+
+
+
+
 
 ## Task for Stage_0
 
+
+
+
+
 ## Workflow
+
+
+
+
+
 
 ## Languages
 - [x] Python
@@ -90,4 +108,10 @@ Almost all of the team members had no or very little programming knowledge, the 
 You can have a look at `script_mariangeles.R` or `script_Ifemide.py` to get familiar with these languages.
 
 ## Contributing
+
+
+
+
+
+
 
