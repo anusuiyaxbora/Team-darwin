@@ -8,4 +8,4 @@ Twitterhandle <- paste(q, collapse = '')
 hamming.dist <- sum(p != q)
 my_details <- c(name,email,slackID,biostack,Twitterhandle,hamming.dist)
 cat(paste(my_details, collapse = ','))
-"\n"
+
