@@ -1,62 +1,47 @@
-<h1 align="center"> Welcome to Team Darwin, HackBio 2021 </h1>
+<h1 align="center">  Welcome to Team Darwin, HackBio 2021 </h1>
 
 ![image](https://user-images.githubusercontent.com/88287648/128190365-2beca13a-9c53-41b0-83cc-185ae3d8a43c.png)
 **HackBio Internship:**
-  HackBio Internship is a virtually regimented research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and     computational biology skills.
+  HackBio Internship is a virtually regimented 5-week research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and  computational biology skills.
 
 **Team Darwin:**
-  This is one of the teams containing 20 interns.
+  This is one of the teams with aspiring researchers who are eager to learn new things and widen their knowledge. 
 
 # Contributors
-*Team-Darwin has reserach enthusiasts from all over the world who have contributed in this repository.* 
-  
-  1: Kay Kay Shain Marma from Bangladesh\
-  2: Anusuiya Bora from India\
-  3: Michael Olufemi from Nigeria\
-  4: Madhumitha from India\
-  5: Lanxin Liu from China\
-  6: Alabi Mosopefoluwa from Nigeria\
-  7: AJULO, Hassan Kehinde from Nigeria\
-  8: OWOH, Ifeanyichukwu Michael from Nigeria\
-  9: Fasemire, Ayomide Samson from Nigeria\
-  10: Utkarsha Pande, from India\
-  11: Adedoyin Adesoye, from Nigeria\
-  12: Akinsehinwa Samuel from Nigeria\
-  13. Oluwademilade Akinyemi from Nigeria\
-  14. Mariángeles Salas from Venezuela
+*Team-Darwin has bioinformatics enthusiasts from all over the world who have contributed in this repository with 7 different programming languages.* 
+ <h1 align="center"> :bangladesh: :india: :nigeria: :cn: :venezuela: </h1>
+
+ 
+ 
+ 
+  Name | Language | Script | Installation
+------------ | ------------- | -------------| -------------- |
+Kay Kay Shain Marma | R | `script_kaykshain.R` |
+Anusuiya Bora | Java| `script_AnusuiyaBora_08.java` |
+Michael Olufemi | C++ | `script_Micholufemi.cpp` |
+Madhumitha |  |  |
+Lanxin Liu | Python | `script_Emma.py` |
+Alabi Mosopefoluwa | Ruby | `script_Mosopefoluwa.rb` |
+AJULO, Hassan Kehinde | R | `script_Hassan.R` |
+Fasemire, Ayomide Samson | R | `script_Ayo123.R` |
+Utkarsha Pande | Perl | `script_Utkarsha12.pl` |
+Adedoyin Adesoye | C++ | `script_Adedoyinsoye.cpp` |
+Oluwademilade Akinyemi | C++ | `script_Demilade.cpp` |
+Mariangeles Salas | R | `script_Mariangeles.R` |
 
 
-
-
+<h1 align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <img src = "https://user-images.githubusercontent.com/88287648/128408602-e3483843-52ad-4095-8076-67a5e6738685.png" alt="java" width="50" height="40"/> </a> <img src="https://www.r-project.org/Rlogo.png" alt="rust" width="30" height="30"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <img src = "https://cdn.freebiesupply.com/logos/large/2x/perl-programming-language-logo-png-transparent.png" alt = "perl" width = "30" height = "30"/> </a><img src = "https://i.pinimg.com/originals/e9/96/56/e99656a9410a7e88b3bf3d6c3e25bda4.png" alt = "ruby" width = "30" height = "30"/> </a> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt = "matlab" width = "50" height = "30"/> </a> <img src = "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt = "javascript" width = "50" height = "30"/> </a> </h1>
 
 # Contents
   * [Getting Started](#getting-started)
-  * [Pre-requisite installations](#pre-requisite-installations)
-  * [Task for Stage_0](#task-for-stage-0)
+  * [Task for Stage_0](#task-for-stage_0)
   * [Workflow](#workflow)
-  * [Language Check](#language-check)
   * [Output Template](#output-template)
-  * [New to Coding?](#new-to-coding-)
+  * [New to Coding?](#new-to-coding)
 
 Reference : <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Getting Started
-## Prerequisite installations
-- [Python language](https://www.python.org/)
-- [GCC and G++ compilers](https://gcc.gnu.org/). Available via standard package managers
-- [R language](https://www.r-project.org/)
-- [Java](https://www.java.com/en/)
-- Linux (awk command must be recognisable in shell)
-- [Perl](https://www.perl.org/)
-- [MATLAB](https://in.mathworks.com/products/matlab-online.html) for MATLAB online
-- [Ruby](https://www.ruby-lang.org/en/)
-
- 
- 
-
-
-
-
-
 
 
 ## Task for Stage_0
@@ -77,19 +62,17 @@ Reference : <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>T
 
 ## Workflow
 
+![image](https://user-images.githubusercontent.com/88287648/128403434-882e46fc-fada-435f-82ff-dafb7bad2aa7.png)
+
+**Step-wise Workflow**
+![image](https://user-images.githubusercontent.com/88287648/128404308-cd31d121-ada1-4f08-ba26-3c382e201301.png)
+![image](https://user-images.githubusercontent.com/88287648/128404793-42c3513b-3cde-40cd-bd5e-25a9c49dd873.png)
+![image](https://user-images.githubusercontent.com/88287648/128404859-24ab2ef8-26ab-4ff1-b4cb-edc7f00c1a37.png)
 
 
 
 
 
-## Languages
-- [x] Python
-- [x] Ruby
-- [x] C++
-- [x] R 
-- [x] Java
-- [x] MATLAB
-- [x] Perl
 
 ## Output Template
 A unified output template is necessary to extract the metadata from all the scripts in the team's repository into a csv file. 
