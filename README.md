@@ -108,7 +108,7 @@ An example:
 
 ## New to Coding 
 Almost all of the team members had no or very little programming knowledge, the task given was very simple and we were able to complete it by searching the web for "Hello World script" in the *language_of_interest* or following videos on youtube. If you are complete newbie to programming, you can try learning R or python, they are widely used  languages in bioinformatics. 
-You can have a look at `script_mariangeles.R` or `script_Ifemide.py` to get familiar with these languages.
+You can have a look at `script_mariangeles.R` or `script_Ifemide.py` or `script_Hassan.R` to get familiar with these languages.
 
 
 
