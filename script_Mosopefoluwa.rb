@@ -20,4 +20,4 @@ def hamming (a, b)
 end
 
 
-print name + "," + email + "," + slack_username + "," + biostack + "," + twitter_handle + "," + hamming(slack_username, twitter_handle).to_s
+print name + "," + email + "," + slack_username + "," + biostack + "," + twitter_handle + "," + hamming(slack_username, twitter_handle).to_s + "\n"
