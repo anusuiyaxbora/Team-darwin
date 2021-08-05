@@ -1,7 +1,9 @@
 name<- 'kay kay shain marma'
 Email<- 'kkshainapu@gmail.com'
 Slack_id<- '@kaykshain'
-Biostack<- 'Genomic'
+Biostack<- 'Genomics'
 Twitter<- '@kkayshain'
-Hamming_distance<- StrDist(Slack_id, Twitter, method = "hamming")
+x= c('@', 'k', 'a', 'y', 'k', 's', 'h', 'a', 'i', 'n')
+y= c('@', 'k', 'k', 'a', 'y', 's', 'h', 'a', 'i', 'n')
+Hamming_distance<- sum(x != y)
 cat(name, Email, Slack_id, Biostack, Twitter, Hamming_distance)
