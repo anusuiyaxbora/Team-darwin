@@ -8,7 +8,7 @@
   This is one of the teams containing 20 interns.
 
 # Contributors
-*Team-Darwin has contributors from all over the world* 
+*Team-Darwin has reserach enthusiasts from all over the world who have contributed in this repository.* 
   
   1: Kay Kay Shain Marma from Bangladesh\
   2: Anusuiya Bora from India\
