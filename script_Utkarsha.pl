@@ -3,7 +3,7 @@
 $Name= 'Utkarsha Pande';
 $email= 'utkarshanp@gmail.com';
 $Slack_id = '@Utkarsha12';
-$Biostack = 'EPIGENOMICSt';
+$Biostack = 'EPIGENOMICS';
 $twitter= '@Utkar-sha50';
  
 print("$Name,$email,$Slack_id,$Biostack,$twitter,");
