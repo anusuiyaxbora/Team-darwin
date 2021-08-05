@@ -6,4 +6,4 @@ Twitter<- '@kkayshain'
 x= c('@', 'k', 'a', 'y', 'k', 's', 'h', 'a', 'i', 'n')
 y= c('@', 'k', 'k', 'a', 'y', 's', 'h', 'a', 'i', 'n')
 Hamming_distance<- sum(x != y)
-cat(name, Email, Slack_id, Biostack, Twitter, Hamming_distance)
+cat(name, '\n', Email, '\n', Slack_id, '\n', Biostack, '\n', Twitter, '\n', Hamming_distance)
