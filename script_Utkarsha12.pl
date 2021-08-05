@@ -14,4 +14,4 @@ for (my $i=0; $i<length $TWITTER; $i++)
      {
       ++$hamming_dist if substr($TWITTER, $i, 1) ne substr($SLACK, $i, 1);
      }
-print("$Name,$email,$Slack_id,$Biostack,$twitter,$hamming_dist\n");
+print("$Name,$email,$Slack_id,$Biostack,$twitter,$hamming_dist");
