@@ -4,6 +4,12 @@
 **HackBio Internship:**
   HackBio Internship is a virtually regimented 5-week research internship that is practice oriented and focused on equipping scientists around the world with advanced bioinformatics and  computational biology skills.
 
+*To know more about HackBio*
+<a href="https://twitter.com/TheHackbio?s=08" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="tbi_internship" height="30" width="30" /></a>
+<a href="https://thehackbio.com/" target="blank"><img align="center" src="https://o.remove.bg/downloads/08017692-b79b-4580-b889-5dadc073dd6e/dAaLhOpD_400x400-removebg-preview.png" alt="HackBioWebsite" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/company/hackbio" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="linkedin" height="20" width="20" /></a>
+</p>
+
 **Team Darwin:**
   This is one of the teams with aspiring researchers who are eager to learn new things and widen their knowledge. 
 
