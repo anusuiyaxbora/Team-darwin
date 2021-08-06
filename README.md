@@ -6,14 +6,14 @@
 
 *To know more about HackBio*
 <a href="https://twitter.com/TheHackbio?s=08" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="tbi_internship" height="30" width="30" /></a>
-<a href="https://thehackbio.com/" target="blank"><img align="center" src="https://o.remove.bg/downloads/08017692-b79b-4580-b889-5dadc073dd6e/dAaLhOpD_400x400-removebg-preview.png" alt="HackBioWebsite" height="30" width="30" /></a>
+<a href="https://thehackbio.com/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1274819410814029824/dAaLhOpD_400x400.jpg" alt="HackBioWebsite" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/company/hackbio" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="linkedin" height="20" width="20" /></a>
 </p>
 
 **Team Darwin:**
   This is one of the teams with aspiring researchers who are eager to learn new things and widen their knowledge. 
 
-# <img src = "https://o.remove.bg/downloads/4b247832-807e-49fd-8bcc-3bd280aa452a/267-2675031_teamwork-clip-art-removebg-preview.png" alt = "contents" width = "70" height = "70" /> </a>Contributors
+# <img src = "https://www.humanesources.com/wp-content/uploads/icon-Skill-Leadership-Red.png" alt = "contibutors" width = "40" height = "40" /> </a>Contributors
 *Team-Darwin has bioinformatics enthusiasts from all over the world who have contributed in this repository with 7+ different programming languages.* 
  <h1 align="center"> :bangladesh: :india: :nigeria: :cn: :venezuela: </h1>
 
