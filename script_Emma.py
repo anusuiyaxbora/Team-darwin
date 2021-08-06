@@ -17,6 +17,6 @@ def hamming_dis(a, b):
         return count
 
 hamming_distance = hamming_dis(slackname, twitterid)
-output = name + ','+ email + ',' + slackname + ',' + biostack + ',' + 'twitterid' + ',' + str(hamming_distance)
+output = name + ','+ email + ',' + slackname + ',' + biostack + ',' + twitterid + ',' + str(hamming_distance)
 print(output)
 
