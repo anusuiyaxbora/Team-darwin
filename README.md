@@ -28,16 +28,17 @@ Michael Olufemi | C++ | `script_Micholufemi.cpp` | https://www.codeblocks.org/do
 Madhumitha | MATLAB, Java Script | `script_Madhu.m`, `script_Madhumitha.js` | https://www.gnu.org/software/octave/download , https://nodejs.org/en/download/ |
 Lanxin Liu | Python | `script_Emma.py` | https://www.python.org/downloads/ |
 Alabi Mosopefoluwa | Ruby | `script_Mosopefoluwa.rb` | https://rubyinstaller.org/downloads/ |
-AJULO, Hassan Kehinde | R | `script_Hassan.R` |
-Fasemire, Ayomide Samson | R | `script_Ayo123.R` |
+AJULO, Hassan Kehinde | R | `script_Hassan.R` | https://cran.r-project.org/ |
+Fasemire, Ayomide Samson | R | `script_Ayo123.R` | https://cran.r-project.org/ |
 Utkarsha Pande | Perl | `script_Utkarsha12.pl` | https://www.perl.org/get.html |
-Adedoyin Adesoye | C++ | `script_Adedoyinsoye.cpp` |
-Oluwademilade Akinyemi | C++ | `script_Demilade.cpp` |
-Mariangeles Salas | R | `script_Mariangeles.R` |
-Akinsehinwa Samuel | Python | `script_Ifemide.py` | 
+Adedoyin Adesoye | C++ | `script_Adedoyinsoye.cpp` | https://www.codeblocks.org/downloads/binaries/ |
+Oluwademilade Akinyemi | C++ | `script_Demilade.cpp` | https://www.codeblocks.org/downloads/binaries/ |
+Mariangeles Salas | R | `script_Mariangeles.R` | https://cran.r-project.org/ |
+Akinsehinwa Samuel | Python | `script_Ifemide.py` | https://www.python.org/downloads/ |
+Ifeanyichukwu Owoh | Ruby | `script_Mcberners.rb`| https://rubyinstaller.org/downloads/ |
 
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <img src = "https://user-images.githubusercontent.com/88287648/128408602-e3483843-52ad-4095-8076-67a5e6738685.png" alt="java" width="50" height="40"/> </a> <img src="https://www.r-project.org/Rlogo.png" alt="rust" width="30" height="30"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <img src = "https://cdn.freebiesupply.com/logos/large/2x/perl-programming-language-logo-png-transparent.png" alt = "perl" width = "30" height = "30"/> </a><img src = "https://i.pinimg.com/originals/e9/96/56/e99656a9410a7e88b3bf3d6c3e25bda4.png" alt = "ruby" width = "30" height = "30"/> </a> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt = "matlab" width = "50" height = "30"/> </a> <img src = "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt = "javascript" width = "50" height = "30"/> </a> </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <img src = "https://user-images.githubusercontent.com/88287648/128408602-e3483843-52ad-4095-8076-67a5e6738685.png" alt="java" width="50" height="40"/> </a> <img src="https://www.r-project.org/Rlogo.png" alt="rust" width="30" height="30"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <img src = "https://cdn.freebiesupply.com/logos/large/2x/perl-programming-language-logo-png-transparent.png" alt = "perl" width = "30" height = "30"/> </a><img src = "https://i.pinimg.com/originals/e9/96/56/e99656a9410a7e88b3bf3d6c3e25bda4.png" alt = "ruby" width = "30" height = "30"/> </a> <img src = "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt = "javascript" width = "50" height = "30"/> </a> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt = "matlab" width = "30" height = "30"/> </a> </h1>
 
 # <img src = "https://www.pinclipart.com/picdir/big/167-1672577_clip-art-check-list-icon-clipart-seasonal-clip.png" alt = "contents" width = "30" height = "30" /> </a> Contents
   * [Getting Started](#getting-started)
