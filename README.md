@@ -8,7 +8,7 @@
   This is one of the teams with aspiring researchers who are eager to learn new things and widen their knowledge. 
 
 # Contributors
-*Team-Darwin has bioinformatics enthusiasts from all over the world who have contributed in this repository with 7 different programming languages.* 
+*Team-Darwin has bioinformatics enthusiasts from all over the world who have contributed in this repository with 7+ different programming languages.* 
  <h1 align="center"> :bangladesh: :india: :nigeria: :cn: :venezuela: </h1>
 
  
@@ -16,15 +16,15 @@
  
   Name | Language | Script | Installation
 ------------ | ------------- | -------------| -------------- |
-Kay Kay Shain Marma | R | `script_kaykshain.R` |
-Anusuiya Bora | Java| `script_AnusuiyaBora_08.java` |
-Michael Olufemi | C++ | `script_Micholufemi.cpp` |
-Madhumitha |  |  |
-Lanxin Liu | Python | `script_Emma.py` |
-Alabi Mosopefoluwa | Ruby | `script_Mosopefoluwa.rb` |
+Kay Kay Shain Marma | R | `script_kaykshain.R` | https://cran.r-project.org/ |
+Anusuiya Bora | Java| `script_AnusuiyaBora_08.java` | https://www.oracle.com/in/java/technologies/javase-downloads.html |
+Michael Olufemi | C++ | `script_Micholufemi.cpp` | https://www.codeblocks.org/downloads/binaries/ |
+Madhumitha | MATLAB, Java Script | `script_Madhu.m`, `script_Madhumitha.js` | https://www.gnu.org/software/octave/download , https://nodejs.org/en/download/ |
+Lanxin Liu | Python | `script_Emma.py` | https://www.python.org/downloads/ |
+Alabi Mosopefoluwa | Ruby | `script_Mosopefoluwa.rb` | https://rubyinstaller.org/downloads/ |
 AJULO, Hassan Kehinde | R | `script_Hassan.R` |
 Fasemire, Ayomide Samson | R | `script_Ayo123.R` |
-Utkarsha Pande | Perl | `script_Utkarsha12.pl` |
+Utkarsha Pande | Perl | `script_Utkarsha12.pl` | https://www.perl.org/get.html |
 Adedoyin Adesoye | C++ | `script_Adedoyinsoye.cpp` |
 Oluwademilade Akinyemi | C++ | `script_Demilade.cpp` |
 Mariangeles Salas | R | `script_Mariangeles.R` |
@@ -75,7 +75,7 @@ Reference : <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>T
 
 
 ## Output Template
-A unified output template is necessary to extract the metadata from all the scripts in the team's repository into a csv file. 
+A unified output template is necessary to extract the metadata from all the scripts in the team's repository and covert it into a csv file using a bash script. 
 ```bash
 > Name,email@abc.com,@SlackUsername,BIOSTACK,@TwitterId,Hamming_distance  
 
@@ -91,7 +91,7 @@ An example:
 
 ## New to Coding 
 Almost all of the team members had no or very little programming knowledge, the task given was very simple and we were able to complete it by searching the web for "Hello World script" in the *language_of_interest* or following videos on youtube. If you are complete newbie to programming, you can try learning R or python, they are widely used  languages in bioinformatics. 
-You can have a look at `script_mariangeles.R` or `script_Ifemide.py` or `script_Hassan.R` to get familiar with these languages.
+You can have a look at `script_mariangeles.R` or `script_Ifemide.py` to get familiar with these languages.
 
 
 
