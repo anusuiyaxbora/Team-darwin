@@ -2,7 +2,7 @@ name = 'Lanxin Liu'
 email = 'lanxin.liu@temple.edu'
 slackname = '@Emma610'
 biostack = 'Genomics & Data Analytics'
-twitterid = 'llx0610'
+twitterid = '@llx0610'
 
 def hamming_dis(a, b):
     count = 0
