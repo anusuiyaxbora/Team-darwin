@@ -24,11 +24,11 @@ int main()
 	char str1[] = "@adedoyinsoye";
 	char str2[] = "@Adedoyinsoye";
 	//FUNCTIONS
-  cout << " NAME: Adedoyin Adesoye, ";
-  cout << "EMAIL: adesoyeadedoyin@gmail.com, ";
-  cout << "SLACK HANDLE: @Adedoyinsoye, ";
-  cout << "BIOSTACK: Genomics, ";
-  cout << "TWITTER HANDLE: @adedoyinsoye, ";
+  cout << "Adedoyin Adesoye,";
+  cout << "adesoyeadedoyin@gmail.com,";
+  cout << "@Adedoyinsoye,";
+  cout << "Genomics,";
+  cout << "@adedoyinsoye,";
   cout << hammingDist (str1, str2);
   
   return 0;
