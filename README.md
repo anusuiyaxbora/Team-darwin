@@ -13,7 +13,7 @@
 **Team Darwin:**
   This is one of the teams with aspiring researchers who are eager to learn new things and widen their knowledge. 
 
-# <img src = "https://freepngimg.com/thumb/teamwork/11-2-team-work-download-png.png" alt = "contents" width = "90" height = "70" /> </a>Contributors
+# <img src = "https://o.remove.bg/downloads/4b247832-807e-49fd-8bcc-3bd280aa452a/267-2675031_teamwork-clip-art-removebg-preview.png" alt = "contents" width = "70" height = "70" /> </a>Contributors
 *Team-Darwin has bioinformatics enthusiasts from all over the world who have contributed in this repository with 7+ different programming languages.* 
  <h1 align="center"> :bangladesh: :india: :nigeria: :cn: :venezuela: </h1>
 
@@ -39,7 +39,7 @@ Akinsehinwa Samuel | Python | `script_Ifemide.py` |
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <img src = "https://user-images.githubusercontent.com/88287648/128408602-e3483843-52ad-4095-8076-67a5e6738685.png" alt="java" width="50" height="40"/> </a> <img src="https://www.r-project.org/Rlogo.png" alt="rust" width="30" height="30"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <img src = "https://cdn.freebiesupply.com/logos/large/2x/perl-programming-language-logo-png-transparent.png" alt = "perl" width = "30" height = "30"/> </a><img src = "https://i.pinimg.com/originals/e9/96/56/e99656a9410a7e88b3bf3d6c3e25bda4.png" alt = "ruby" width = "30" height = "30"/> </a> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt = "matlab" width = "50" height = "30"/> </a> <img src = "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt = "javascript" width = "50" height = "30"/> </a> </h1>
 
-# <img src = "https://www.vippng.com/png/full/350-3503332_checklist-clipart-icon-check-list-icon-png-green.png" alt = "contents" width = "30" height = "30" /> </a> Contents
+# <img src = "https://www.pinclipart.com/picdir/big/167-1672577_clip-art-check-list-icon-clipart-seasonal-clip.png" alt = "contents" width = "30" height = "30" /> </a> Contents
   * [Getting Started](#getting-started)
   * [Task for Stage_0](#task-for-stage_0)
   * [Workflow](#workflow)
