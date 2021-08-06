@@ -113,8 +113,5 @@ echo "Removing temporary objects"
 rm *.class compiled_object
 echo ""
  
-# Adding a blank line at the end of the csv file
-echo "\n" >> output/csv.csv
- 
 echo "End of the bash execution :)"
 echo ""
