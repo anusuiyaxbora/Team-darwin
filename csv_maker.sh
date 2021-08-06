@@ -72,7 +72,6 @@ do
         *".pl")
             echo -n "We are running an Perl code"
             perl $script >> output/csv.csv
-            echo "" >> output/csv.csv
             echo ""
             ;;
  
@@ -92,7 +91,6 @@ do
         *".rb")
             echo -n "We are running an Ruby code"
             ruby $script >> output/csv.csv
-            echo "" >> output/csv.csv
             echo "" 
             ;;
 
