@@ -1,6 +1,6 @@
 name = 'Lanxin Liu'
 email = 'lanxin.liu@temple.edu'
-slackname = '@Emma'
+slackname = '@Emma06'
 biostack = 'Genomics & Data Analytics'
 twitterid = 'llx0610'
 
