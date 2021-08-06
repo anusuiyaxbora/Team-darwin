@@ -19,15 +19,15 @@ int hammingDist(char *str1, char *str2)
 // driver code
 int main()
 {
-	char str1[] = "Micholufemi";
-	char str2[] = "mich_olufemi";
+	char str1[] = "@Micholufemi";
+	char str2[] = "@mich_olufemi";
 
 	// function call
 	cout << "Michael Olufemi,";
   cout << "olufemim3@gmail.com,";
   cout << "@Micholufemi,";
   cout << "Genomics,";
-  cout << "mich_olufemi,";
+  cout << "@mich_olufemi,";
   cout << hammingDist (str1, str2);
   
 
