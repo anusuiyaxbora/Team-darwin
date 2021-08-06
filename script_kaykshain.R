@@ -3,7 +3,7 @@ Email<- 'kkshainapu@gmail.com'
 Slack_id<- '@kaykshain'
 Biostack<- 'Genomics'
 Twitter<- '@kkayshain'
-x= c('@', 'k', 'a', 'y', 'k', 's', 'h', 'a', 'i', 'n')
-y= c('@', 'k', 'k', 'a', 'y', 's', 'h', 'a', 'i', 'n')
-Hamming_distance<- sum(x != y)
-cat(name, '\n', Email, '\n', Slack_id, '\n', Biostack, '\n', Twitter, '\n', Hamming_distance)
+slack_ham<- c(strsplit(Slack_id, split = "")[[1]])
+Twitter_ham<- c(strsplit(Twitter, split = "")[[1]])
+Hamming_distance<- sum(slack_ham != Twitter_ham)
+cat(name, Email, Slack_id, Biostack, Twitter, Hamming_distance, sep = ',')
