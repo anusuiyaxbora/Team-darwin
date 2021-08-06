@@ -1,6 +1,6 @@
 name = 'Lanxin Liu'
 email = 'lanxin.liu@temple.edu'
-slackname = '@Emma06'
+slackname = '@Emma610'
 biostack = 'Genomics & Data Analytics'
 twitterid = 'llx0610'
 
@@ -10,10 +10,10 @@ def hamming_dis(a, b):
     if len(a) != len(b):
         return output
     else:
-        for x, (i, j) in enumerate(zip(a,b)):
-            if i != j:
-                print(f'char not math{i,j} in {x}')
-            count += 1
+        for i in range(len(a)): # x, (i, j) in enumerate(zip(a,b)):
+            if a[i] != b[i]:
+                # print(f'char not math{i,j} in {x}')
+                count += 1
         return count
 
 hamming_distance = hamming_dis(slackname, twitterid)
