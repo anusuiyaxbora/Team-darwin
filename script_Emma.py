@@ -3,7 +3,7 @@ email = 'lanxin.liu@temple.edu'
 slackname = '@Emma'
 biostack = 'Genomics & Data Analytics'
 
-output = name + ','+ email + ',' + slackname + ',' + biostack)
+output = name + ','+ email + ',' + slackname + ',' + biostack
 print(output)
 
 # optional -- output to a file
