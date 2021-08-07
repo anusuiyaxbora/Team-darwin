@@ -8,7 +8,7 @@ echo ""
 mkdir output
  
 # Defining the csv header
-echo "name, email, slack_id, biostak, twitter, hamming_distance" > output/csv.csv
+echo "name, email, slack_id, biostack, twitter, hamming_distance" > output/csv.csv
  
 # Fetch executables c++ scripts
 cpp_set=$(find -iname "*.cpp")
