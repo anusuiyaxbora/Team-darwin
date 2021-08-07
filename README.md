@@ -40,7 +40,6 @@ Ifeanyichukwu Owoh | Ruby | `script_Mcberners.rb`| https://rubyinstaller.org/dow
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <img src = "https://user-images.githubusercontent.com/88287648/128408602-e3483843-52ad-4095-8076-67a5e6738685.png" alt="java" width="50" height="40"/> </a> <img src="https://www.r-project.org/Rlogo.png" alt="rust" width="30" height="30"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <img src = "https://cdn.freebiesupply.com/logos/large/2x/perl-programming-language-logo-png-transparent.png" alt = "perl" width = "30" height = "30"/> </a><img src = "https://i.pinimg.com/originals/e9/96/56/e99656a9410a7e88b3bf3d6c3e25bda4.png" alt = "ruby" width = "30" height = "30"/> </a> <img src = "https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt = "javascript" width = "50" height = "30"/> </a> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png" alt = "matlab" width = "30" height = "30"/> </a> </h1>
 
-# Team-Darwin CSV
 
 # <img src = "https://www.pinclipart.com/picdir/big/167-1672577_clip-art-check-list-icon-clipart-seasonal-clip.png" alt = "contents" width = "30" height = "30" /> </a> Contents
   * [Getting Started](#getting-started)
