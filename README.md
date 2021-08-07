@@ -101,7 +101,7 @@ An example:
 
 ## Bash Script Execution
 Here is a quick tutoial on how to execute Team-Darwin's bash script : <small><i><a href='https://drive.google.com/file/d/1uTTbhUxZ_E1fFLhujWbZBcKZ2HKvFnPx/view?usp=sharing'>Tutorial on bash script execuition</a></i></small>
-
+Link for Git Bash installation: https://git-scm.com/downloads
 
 ## New to Coding 
 Almost all of the team members had no or very little programming knowledge, the task given was very simple and we were able to complete it by searching the web for "Hello World script" in the *language_of_interest* or following videos on youtube. If you are complete newbie to programming, you can try learning R or python, they are widely used  languages in bioinformatics. 
