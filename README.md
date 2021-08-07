@@ -101,6 +101,7 @@ An example:
 
 ## Bash Script Execution
 Here is a quick tutoial on how to execute Team-Darwin's bash script : <small><i><a href='https://drive.google.com/file/d/1uTTbhUxZ_E1fFLhujWbZBcKZ2HKvFnPx/view?usp=sharing'>Tutorial on bash script execuition</a></i></small>
+
 Link for Git Bash installation: https://git-scm.com/downloads
 
 ## New to Coding 
